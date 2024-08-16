@@ -15,9 +15,9 @@ Avoid obstacles and reach the end of the level!
 - Python 3.x
 - Pygame
 
-To install Pygame:
+To install Pygame go on cmds or bash and type:
 
-    - Go on cmds or bash and type: pip install pygame
+    -pip install pygame
 
 ## Running the game
 
