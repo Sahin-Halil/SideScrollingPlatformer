@@ -6,7 +6,9 @@ A basic side-scrolling platformer built with Pygame.
 
 - **Move Left**: Left arrow key
 - **Move Right**: Right arrow key
-- **Jump**: Spacebar
+- **Move up**: Up arrow key
+- **Move down**: Down arrow key
+- **Shoot fireball**: Spacebar
 
 Avoid obstacles and reach the end of the level!
 
